@@ -5,11 +5,9 @@ body, header {
     text-align: center;
     background-color: black
 }
-
 .header {
     background-color: lightblue;
     padding: 20px;
-    
     font-style: bold;
     color: black;
 }
